@@ -1,4 +1,7 @@
 # MSG
+
+[https://github.com/moffenzeefmodular/MSG/blob/master/Images/MSG_Label.png]
+
 Mini Søund Generatør
   by Ross Fish 
 Møffenzeef Mødular 
