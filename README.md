@@ -1,5 +1,7 @@
 # MSG
 
+![HELP](https://github.com/moffenzeefmodular/MSG/wiki)
+
 ![Image](https://github.com/moffenzeefmodular/MSG/blob/master/Images/MSG_Label.png)
 
 Mini Søund Generatør
