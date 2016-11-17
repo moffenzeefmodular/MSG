@@ -84,5 +84,5 @@ ISR(TIMER0_COMPA_vect) {
   scale = max(scale, 0); 
   scale = min(scale, 255);
 
-  OCR1A = scale;
+  OCR1A = scale >> 1;
 }
